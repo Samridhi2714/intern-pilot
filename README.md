@@ -102,7 +102,7 @@ intern/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intern-pilot.git
+git clone https://github.com/Samridhi2714/intern-pilot.git
 ```
 
 ### Frontend Setup
